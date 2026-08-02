@@ -1,0 +1,7 @@
+print("My name is Ayan")
+print("I will became an AI Engineer")
+print("I am 16 year old")
+print(5 + 5)
+print(4 * 6)
+print(4 - 3)
+print(5 / 2)
