@@ -5,8 +5,16 @@
 # print("Substraction =", num1 - num2)
 # print("Multiplacation =", num1 * num2)
 
-length =int(input("Enter your lenght: "))
-width =int(input("Enter your width: "))
-area = length * width
+# length =int(input("Enter your lenght: "))
+# width =int(input("Enter your width: "))
+# area = length * width
 
-print("Area", area)
+# print("Area", area)
+
+num = 2
+
+num = num + 3
+num = num * 4
+num = num - 5
+
+print(num)
